@@ -1,10 +1,4 @@
-# from qr_kod import make_qr
-# def f(num1):
-#     for i in range(num1):
-#         yield make_qr(str(i), str(i))
-# for i in f(1):
-#     ...
-        
+
 import qrcode
 import random
 import string
